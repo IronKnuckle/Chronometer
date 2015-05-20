@@ -1,0 +1,2 @@
+# Chronometer
+Cronometro de actividades
